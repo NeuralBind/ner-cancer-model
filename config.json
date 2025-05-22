@@ -31,7 +31,7 @@
   "seq_classif_dropout": 0.2,
   "sinusoidal_pos_embds": false,
   "tie_weights_": true,
-  "torch_dtype": "float32",
+  "torch_dtype": "float16",
   "transformers_version": "4.52.3",
   "vocab_size": 30522
 }
