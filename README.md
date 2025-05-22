@@ -16,13 +16,10 @@ Augmented using domain-specific synonyms (e.g., `glioblastoma ↔ GBM`).
 ## 🧠 Model
 
 - **Base Model:** `d4data/biomedical-ner-all`
-- **Fine-tuning Details:**
-  - **Epochs:** 10+
-  - **Learning Rate:** 2e-5
-  - **Batch Size:** 8
-  - **Loss Function:** Cross-Entropy with token masking
-  - **Evaluation Strategy:** Per epoch
-  - **Augmentation:** Synonym replacement to simulate rare disease variability
+## 🔗 Model on Hugging Face Hub
+
+[Click here to access the model on Hugging Face 🤗](https://huggingface.co/CodeIsNull/ner-rare-disease-ner)
+
 
 ## 🚀 Usage
 
