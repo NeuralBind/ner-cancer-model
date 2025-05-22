@@ -1,4 +1,4 @@
-# 🔬 Fine-Tuned Biomedical NER Model – Rare Disease Focus
+# 🔬 Fine-Tuned Biomedical NER Model – Cancer Disease Focus
 
 This repository contains a fine-tuned [d4data/biomedical-ner-all](https://huggingface.co/d4data/biomedical-ner-all) model specifically trained to recognize disease entities, with a special emphasis on **rare diseases**.
 
