@@ -24,12 +24,6 @@ Augmented using domain-specific synonyms (e.g., `glioblastoma ↔ GBM`).
   - **Evaluation Strategy:** Per epoch
   - **Augmentation:** Synonym replacement to simulate rare disease variability
 
-## 🧪 Performance Snapshot
-
-| Epoch | Train Loss | Val Loss | Precision | Recall | F1-Score | Accuracy |
-|-------|------------|----------|-----------|--------|----------|----------|
-| 100   | 0.0035     | 0.2391   | 1.000     | 1.000  | 1.000    | 1.000    |
-
 ## 🚀 Usage
 
 ```python
